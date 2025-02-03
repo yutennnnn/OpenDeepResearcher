@@ -75,3 +75,9 @@ This notebook implements an **AI researcher** that continuously searches for inf
 
 - **API Issues:**  
   Verify that your API keys are correct and that you are not exceeding any rate limits.
+
+---
+
+Follow me on [X](https://x.com/mattshumer_) for updates on this and other AI things I'm working on.
+
+OpenDeepResearcher is released under the MIT License. See the LICENSE file for more details.
