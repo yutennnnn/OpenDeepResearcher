@@ -12,6 +12,7 @@ This notebook implements an **AI researcher** that continuously searches for inf
 - **Asynchronous Processing:** Searches, webpage fetching, evaluation, and context extraction are performed concurrently to improve speed.
 - **Duplicate Filtering:** Aggregates and deduplicates links within each round, ensuring that the same link isn’t processed twice.
 - **LLM-Powered Decision Making:** Uses the LLM to generate new search queries, decide on page usefulness, extract relevant context, and produce a final comprehensive report.
+- **Gradio Interface:** Use the `open-deep-researcher - gradio` notebook if you want to use this in a functional UI
 
 ## Requirements
 
